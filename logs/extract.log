@@ -1,0 +1,724 @@
+2025-11-01 20:11:30,472 | INFO | Extract: 5 filas en doctors.xlsx
+2025-11-01 20:38:45,212 | INFO | === START: INGEST ===
+2025-11-01 20:38:45,214 | INFO | Reading doctors file from: ./data/doctors.xlsx
+2025-11-01 20:39:37,081 | INFO | === START: INGEST ===
+2025-11-01 20:39:37,084 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-01 20:39:37,106 | INFO | Doctors file loaded: 5 rows
+2025-11-01 20:39:37,106 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-01 20:39:37,137 | INFO | Appointments file loaded: 1025 rows
+2025-11-01 20:39:37,137 | INFO | === END: INGEST ===
+2025-11-01 20:39:49,544 | INFO | === START: INGEST ===
+2025-11-01 20:39:49,546 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-01 20:39:49,561 | INFO | Doctors file loaded: 5 rows
+2025-11-01 20:39:49,562 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-01 20:39:49,594 | INFO | Appointments file loaded: 1025 rows
+2025-11-01 20:39:49,594 | INFO | === END: INGEST ===
+2025-11-01 20:41:28,151 | INFO | === START: INGEST ===
+2025-11-01 20:41:28,155 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-01 20:41:28,180 | INFO | Doctors file loaded: 5 rows
+2025-11-01 20:41:28,181 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-01 20:41:28,213 | INFO | Appointments file loaded: 1025 rows
+2025-11-01 20:41:28,213 | INFO | === END: INGEST ===
+2025-11-01 20:48:48,723 | INFO | === START: INGEST ===
+2025-11-01 20:48:48,725 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-01 20:48:48,803 | INFO | Doctors file loaded: 5 rows
+2025-11-01 20:48:48,803 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-01 20:48:48,828 | INFO | Appointments file loaded: 1025 rows
+2025-11-01 20:48:48,829 | INFO | === END: INGEST ===
+2025-11-01 20:48:48,857 | INFO | === START: INGEST ===
+2025-11-01 20:48:48,859 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-01 20:48:48,873 | INFO | Doctors file loaded: 5 rows
+2025-11-01 20:48:48,874 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-01 20:48:48,902 | INFO | Appointments file loaded: 1025 rows
+2025-11-01 20:48:48,902 | INFO | === END: INGEST ===
+2025-11-01 20:49:00,945 | INFO | === START: INGEST ===
+2025-11-01 20:49:00,947 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-01 20:49:00,961 | INFO | Doctors file loaded: 5 rows
+2025-11-01 20:49:00,962 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-01 20:49:01,037 | INFO | Appointments file loaded: 1025 rows
+2025-11-01 20:49:01,038 | INFO | === END: INGEST ===
+2025-11-01 20:49:12,781 | INFO | === START: INGEST ===
+2025-11-01 20:49:12,782 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-01 20:49:12,794 | INFO | Doctors file loaded: 5 rows
+2025-11-01 20:49:12,795 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-01 20:49:12,823 | INFO | Appointments file loaded: 1025 rows
+2025-11-01 20:49:12,823 | INFO | === END: INGEST ===
+2025-11-01 20:59:56,991 | INFO | === START: INGEST ===
+2025-11-01 20:59:56,993 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-01 20:59:57,053 | INFO | Doctors file loaded: 5 rows
+2025-11-01 20:59:57,056 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-01 20:59:57,089 | INFO | Appointments file loaded: 1025 rows
+2025-11-01 20:59:57,089 | INFO | === END: INGEST ===
+2025-11-01 21:00:03,377 | INFO | === START: INGEST ===
+2025-11-01 21:00:03,378 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-01 21:00:03,419 | INFO | Doctors file loaded: 5 rows
+2025-11-01 21:00:03,426 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-01 21:00:03,455 | INFO | Appointments file loaded: 1025 rows
+2025-11-01 21:00:03,455 | INFO | === END: INGEST ===
+2025-11-01 21:00:06,602 | INFO | === START: INGEST ===
+2025-11-01 21:00:06,603 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-01 21:00:06,616 | INFO | Doctors file loaded: 5 rows
+2025-11-01 21:00:06,616 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-01 21:00:06,643 | INFO | Appointments file loaded: 1025 rows
+2025-11-01 21:00:06,644 | INFO | === END: INGEST ===
+2025-11-01 22:00:22,907 | INFO | === START: INGEST ===
+2025-11-01 22:00:22,909 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-01 22:00:22,997 | INFO | Doctors file loaded: 5 rows
+2025-11-01 22:00:22,998 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-01 22:00:23,026 | INFO | Appointments file loaded: 1025 rows
+2025-11-01 22:00:23,026 | INFO | === END: INGEST ===
+2025-11-01 22:02:09,401 | INFO | === START: INGEST ===
+2025-11-01 22:02:09,403 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-01 22:02:09,418 | INFO | Doctors file loaded: 5 rows
+2025-11-01 22:02:09,418 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-01 22:02:09,485 | INFO | Appointments file loaded: 1025 rows
+2025-11-01 22:02:09,485 | INFO | === END: INGEST ===
+2025-11-02 01:38:16,167 | INFO | === START: INGEST ===
+2025-11-02 01:38:16,168 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 01:38:16,188 | INFO | Doctors file loaded: 5 rows
+2025-11-02 01:38:16,189 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 01:38:16,218 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 01:38:16,218 | INFO | === END: INGEST ===
+2025-11-02 01:39:14,192 | INFO | === START: INGEST ===
+2025-11-02 01:39:14,193 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 01:39:14,224 | INFO | Doctors file loaded: 5 rows
+2025-11-02 01:39:14,225 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 01:39:14,278 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 01:39:14,279 | INFO | === END: INGEST ===
+2025-11-02 01:44:11,341 | INFO | Transforming doctors dataset...
+2025-11-02 01:44:11,353 | INFO | Doctors cleaned: 5 rows
+2025-11-02 01:44:11,354 | INFO | Transforming appointments dataset...
+2025-11-02 01:44:43,491 | INFO | Transforming doctors dataset...
+2025-11-02 01:44:43,497 | INFO | Doctors cleaned: 5 rows
+2025-11-02 01:44:43,498 | INFO | Transforming appointments dataset...
+2025-11-02 01:45:26,889 | INFO | Transforming doctors dataset...
+2025-11-02 01:45:26,893 | INFO | Doctors cleaned: 5 rows
+2025-11-02 01:45:26,894 | INFO | Transforming appointments dataset...
+2025-11-02 01:45:26,903 | INFO | Appointments cleaned: 1025 rows
+2025-11-02 01:46:22,369 | INFO | === START: INGEST ===
+2025-11-02 01:46:22,371 | INFO | Reading doctors file from: ./datasets/doctors.xlsx
+2025-11-02 01:47:38,912 | INFO | === START: INGEST ===
+2025-11-02 01:47:38,915 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 01:47:38,930 | INFO | Doctors file loaded: 5 rows
+2025-11-02 01:47:38,931 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 01:47:38,962 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 01:47:38,962 | INFO | === END: INGEST ===
+2025-11-02 01:47:38,963 | INFO | Transforming doctors dataset...
+2025-11-02 01:47:38,964 | INFO | Doctors cleaned: 5 rows
+2025-11-02 01:47:38,965 | INFO | Transforming appointments dataset...
+2025-11-02 01:47:38,968 | INFO | Appointments cleaned: 1025 rows
+2025-11-02 01:49:22,661 | INFO | === START: INGEST ===
+2025-11-02 01:49:22,663 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 01:49:22,679 | INFO | Doctors file loaded: 5 rows
+2025-11-02 01:49:22,680 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 01:49:22,715 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 01:49:22,716 | INFO | === END: INGEST ===
+2025-11-02 01:49:22,716 | INFO | Transforming doctors dataset...
+2025-11-02 01:49:22,718 | INFO | Doctors cleaned: 5 rows
+2025-11-02 01:49:22,718 | INFO | Transforming appointments dataset...
+2025-11-02 01:49:22,721 | INFO | Appointments cleaned: 1025 rows
+2025-11-02 01:49:22,730 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 01:56:38,410 | INFO | === START: INGEST ===
+2025-11-02 01:56:38,412 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 01:56:38,438 | INFO | Doctors file loaded: 5 rows
+2025-11-02 01:56:38,439 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 01:56:38,465 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 01:56:38,466 | INFO | === END: INGEST ===
+2025-11-02 01:56:38,466 | INFO | Transforming doctors dataset...
+2025-11-02 01:56:38,469 | INFO | Doctors cleaned: 5 rows
+2025-11-02 01:56:38,470 | INFO | Transforming appointments dataset...
+2025-11-02 01:56:38,471 | INFO | Columns after normalization: ['appointment_id', 'patient_id', 'doctor_id', 'booking_date', 'status']
+2025-11-02 01:58:34,492 | INFO | === START: INGEST ===
+2025-11-02 01:58:34,493 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 01:58:34,512 | INFO | Doctors file loaded: 5 rows
+2025-11-02 01:58:34,513 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 01:58:34,546 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 01:58:34,547 | INFO | === END: INGEST ===
+2025-11-02 01:58:34,547 | INFO | Transforming doctors dataset...
+2025-11-02 01:58:34,548 | INFO | Doctors cleaned: 5 rows
+2025-11-02 01:58:34,549 | INFO | Transforming appointments dataset...
+2025-11-02 01:58:34,549 | INFO | Raw columns before rename: ['booking_id', 'patient_id', 'doctor_id', 'booking_date', 'status']
+2025-11-02 01:58:34,550 | INFO | Columns after rename: ['appointment_id', 'patient_id', 'doctor_id', 'appointment_date', 'status']
+2025-11-02 01:58:34,560 | INFO | ✅ Appointments cleaned: 646 rows
+2025-11-02 01:58:34,565 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:08:25,498 | INFO | === START: INGEST ===
+2025-11-02 02:08:25,500 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:08:25,525 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:08:25,549 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:08:25,595 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:08:25,595 | INFO | === END: INGEST ===
+2025-11-02 02:08:25,596 | INFO | Transforming doctors dataset...
+2025-11-02 02:08:25,598 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:08:25,598 | INFO | Transforming appointments dataset (non-destructive)...
+2025-11-02 02:08:25,599 | INFO | Raw columns before rename: ['booking_id', 'patient_id', 'doctor_id', 'booking_date', 'status']
+2025-11-02 02:08:25,600 | INFO | Columns after rename: ['appointment_id', 'patient_id', 'doctor_id', 'appointment_date', 'status']
+2025-11-02 02:08:25,607 | INFO | Appointments rows: 1025 | invalid appointment_id: 1, invalid doctor_id: 0, invalid date: 379
+2025-11-02 02:08:25,608 | INFO | ✅ Appointments cleaned (non-destructive): 1025 rows (no drops)
+2025-11-02 02:08:25,628 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:13:57,815 | INFO | === START: INGEST ===
+2025-11-02 02:13:57,816 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:13:57,835 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:13:57,835 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:13:57,869 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:13:57,870 | INFO | === END: INGEST ===
+2025-11-02 02:13:57,870 | INFO | Transforming doctors dataset...
+2025-11-02 02:13:57,872 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:13:57,872 | INFO | Transforming appointments dataset (simple version)...
+2025-11-02 02:13:57,875 | INFO | ✅ Appointments cleaned: 1025 rows
+2025-11-02 02:13:57,879 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:18:27,864 | INFO | === START: INGEST ===
+2025-11-02 02:18:27,865 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:18:27,881 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:18:27,882 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:18:27,917 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:18:27,918 | INFO | === END: INGEST ===
+2025-11-02 02:18:27,918 | INFO | Transforming doctors dataset...
+2025-11-02 02:18:27,920 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:18:27,920 | INFO | Transforming appointments dataset (final version)...
+2025-11-02 02:18:27,924 | INFO | ✅ Appointments cleaned successfully: 1025 rows processed.
+2025-11-02 02:18:27,930 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:20:37,261 | INFO | === START: INGEST ===
+2025-11-02 02:20:37,262 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:20:37,283 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:20:37,283 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:20:37,315 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:20:37,315 | INFO | === END: INGEST ===
+2025-11-02 02:20:37,316 | INFO | Transforming doctors dataset...
+2025-11-02 02:20:37,318 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:20:37,318 | INFO | Transforming appointments dataset (robust mixed-format handling)...
+2025-11-02 02:20:37,322 | INFO | ✅ Appointments cleaned successfully: 1025 rows processed.
+2025-11-02 02:20:37,327 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:21:35,464 | INFO | === START: INGEST ===
+2025-11-02 02:21:35,465 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:21:35,482 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:21:35,482 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:21:35,515 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:21:35,516 | INFO | === END: INGEST ===
+2025-11-02 02:21:35,517 | INFO | Transforming doctors dataset...
+2025-11-02 02:21:35,519 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:21:35,520 | INFO | Transforming appointments dataset (final robust date fix)...
+2025-11-02 02:21:35,526 | INFO | ✅ Appointments cleaned successfully: 1025 rows processed (dates preserved).
+2025-11-02 02:21:35,532 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:22:58,781 | INFO | === START: INGEST ===
+2025-11-02 02:22:58,783 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:22:58,799 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:22:58,800 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:22:58,834 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:22:58,835 | INFO | === END: INGEST ===
+2025-11-02 02:22:58,835 | INFO | Transforming doctors dataset...
+2025-11-02 02:22:58,837 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:22:58,837 | INFO | Transforming appointments dataset (fixing YYYYMMDD misreads)...
+2025-11-02 02:22:58,842 | INFO | ✅ Appointments cleaned successfully: 1025 rows processed.
+2025-11-02 02:22:58,848 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:24:37,928 | INFO | === START: INGEST ===
+2025-11-02 02:24:37,929 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:24:37,948 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:24:37,949 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:24:38,019 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:24:38,020 | INFO | === END: INGEST ===
+2025-11-02 02:24:38,020 | INFO | Transforming doctors dataset...
+2025-11-02 02:24:38,021 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:24:38,021 | INFO | Transforming appointments dataset (final version — preserve all values)...
+2025-11-02 02:24:38,107 | INFO | ✅ Appointments transformed successfully: 1025 rows, values preserved.
+2025-11-02 02:24:38,112 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:26:29,453 | INFO | === START: INGEST ===
+2025-11-02 02:26:29,454 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:26:29,471 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:26:29,472 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:26:29,506 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:26:29,506 | INFO | === END: INGEST ===
+2025-11-02 02:26:29,507 | INFO | Transforming doctors dataset...
+2025-11-02 02:26:29,509 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:26:29,509 | INFO | Transforming appointments dataset (final version)...
+2025-11-02 02:27:39,850 | INFO | === START: INGEST ===
+2025-11-02 02:27:39,851 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:27:39,872 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:27:39,874 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:27:39,907 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:27:39,907 | INFO | === END: INGEST ===
+2025-11-02 02:27:39,943 | INFO | === START: INGEST ===
+2025-11-02 02:27:39,944 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:27:39,954 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:27:39,955 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:27:40,028 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:27:40,029 | INFO | === END: INGEST ===
+2025-11-02 02:27:40,029 | INFO | Transforming doctors dataset...
+2025-11-02 02:27:40,031 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:27:40,031 | INFO | Transforming appointments dataset (final version)...
+2025-11-02 02:27:40,034 | INFO | ✅ Appointment dates normalized successfully: 1025 rows.
+2025-11-02 02:27:40,039 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:30:17,945 | INFO | === START: INGEST ===
+2025-11-02 02:30:17,947 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:17,963 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:30:17,964 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:17,998 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:30:17,998 | INFO | === END: INGEST ===
+2025-11-02 02:30:17,999 | INFO | Transforming doctors dataset...
+2025-11-02 02:30:18,000 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:30:18,001 | INFO | Transforming appointments dataset (non-destructive)...
+2025-11-02 02:30:33,999 | INFO | === START: INGEST ===
+2025-11-02 02:30:34,001 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:34,014 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:30:34,015 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:34,048 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:30:34,049 | INFO | === END: INGEST ===
+2025-11-02 02:30:34,087 | INFO | === START: INGEST ===
+2025-11-02 02:30:34,089 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:34,122 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:30:34,127 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:34,172 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:30:34,172 | INFO | === END: INGEST ===
+2025-11-02 02:30:34,172 | INFO | Transforming doctors dataset...
+2025-11-02 02:30:34,174 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:30:34,174 | INFO | Transforming appointments dataset (non-destructive)...
+2025-11-02 02:30:43,283 | INFO | === START: INGEST ===
+2025-11-02 02:30:43,284 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:43,301 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:30:43,302 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:43,340 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:30:43,340 | INFO | === END: INGEST ===
+2025-11-02 02:30:43,379 | INFO | === START: INGEST ===
+2025-11-02 02:30:43,381 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:43,390 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:30:43,391 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:43,416 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:30:43,416 | INFO | === END: INGEST ===
+2025-11-02 02:30:43,417 | INFO | Transforming doctors dataset...
+2025-11-02 02:30:43,418 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:30:43,418 | INFO | Transforming appointments dataset (non-destructive)...
+2025-11-02 02:30:54,633 | INFO | === START: INGEST ===
+2025-11-02 02:30:54,635 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:54,661 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:30:54,663 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:54,695 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:30:54,695 | INFO | === END: INGEST ===
+2025-11-02 02:30:54,736 | INFO | === START: INGEST ===
+2025-11-02 02:30:54,736 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:54,744 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:30:54,744 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:30:54,816 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:30:54,820 | INFO | === END: INGEST ===
+2025-11-02 02:30:54,825 | INFO | Transforming doctors dataset...
+2025-11-02 02:30:54,829 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:30:54,830 | INFO | Transforming appointments dataset (non-destructive)...
+2025-11-02 02:31:03,242 | INFO | === START: INGEST ===
+2025-11-02 02:31:03,244 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:31:03,260 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:31:03,263 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:31:03,294 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:31:03,294 | INFO | === END: INGEST ===
+2025-11-02 02:31:03,336 | INFO | === START: INGEST ===
+2025-11-02 02:31:03,337 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:31:03,344 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:31:03,345 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:31:03,367 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:31:03,368 | INFO | === END: INGEST ===
+2025-11-02 02:31:03,368 | INFO | Transforming doctors dataset...
+2025-11-02 02:31:03,369 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:31:03,369 | INFO | Transforming appointments dataset (non-destructive)...
+2025-11-02 02:35:20,217 | INFO | === START: INGEST ===
+2025-11-02 02:35:20,218 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:35:20,234 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:35:20,235 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:35:20,270 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:35:20,271 | INFO | === END: INGEST ===
+2025-11-02 02:35:20,313 | INFO | === START: INGEST ===
+2025-11-02 02:35:20,315 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:35:20,325 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:35:20,325 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:35:20,347 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:35:20,348 | INFO | === END: INGEST ===
+2025-11-02 02:35:20,348 | INFO | Transforming doctors dataset...
+2025-11-02 02:35:20,349 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:35:20,350 | INFO | Transforming appointments dataset (final version)...
+2025-11-02 02:35:20,353 | INFO | ✅ Appointment dates normalized: 646/1025 rows to YYYY-MM-DD.
+2025-11-02 02:35:20,359 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:39:17,045 | INFO | === START: INGEST ===
+2025-11-02 02:39:17,046 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:39:17,064 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:39:17,065 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:39:17,097 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:39:17,098 | INFO | === END: INGEST ===
+2025-11-02 02:39:17,098 | INFO | Transforming doctors dataset...
+2025-11-02 02:39:17,100 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:39:17,100 | INFO | Transforming appointments dataset (final version)...
+2025-11-02 02:39:17,107 | INFO | ✅ Appointment dates normalized to YYYY-MM-DD: 486/1025 rows.
+2025-11-02 02:39:17,113 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:40:23,474 | INFO | === START: INGEST ===
+2025-11-02 02:40:23,476 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:40:23,495 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:40:23,496 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:40:23,530 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:40:23,530 | INFO | === END: INGEST ===
+2025-11-02 02:40:23,531 | INFO | Transforming doctors dataset...
+2025-11-02 02:40:23,532 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:40:23,533 | INFO | Transforming appointments dataset (final version)...
+2025-11-02 02:40:23,541 | INFO | ✅ Dates normalized (YYYY-MM-DD). Valid: 486/1025 | Invalid set to empty.
+2025-11-02 02:40:23,549 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:45:05,873 | INFO | === START: INGEST ===
+2025-11-02 02:45:05,874 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:45:05,893 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:45:05,894 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:45:05,927 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:45:05,927 | INFO | === END: INGEST ===
+2025-11-02 02:45:05,927 | INFO | Transforming doctors dataset...
+2025-11-02 02:45:05,929 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:45:05,929 | INFO | Transforming appointments dataset (final version)...
+2025-11-02 02:45:05,934 | INFO | ✅ Appointment dates normalized to YYYY-MM-DD: 486/1025 rows.
+2025-11-02 02:45:05,940 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:47:23,321 | INFO | === START: INGEST ===
+2025-11-02 02:47:23,323 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:47:23,347 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:47:23,348 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:47:23,381 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:47:23,381 | INFO | === END: INGEST ===
+2025-11-02 02:47:23,382 | INFO | Transforming doctors dataset...
+2025-11-02 02:47:23,384 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:47:23,385 | INFO | Transforming appointments dataset (final version)...
+2025-11-02 02:47:23,396 | WARNING | ⚠️  Corrected 231 dates with impossible future years (>2030) to 2025
+2025-11-02 02:47:23,398 | INFO | ✅ Appointment dates normalized to YYYY-MM-DD: 647/1025 rows.
+2025-11-02 02:47:23,400 | INFO | ✅ Standardized status values: {'confirmed': 813, 'cancelled': 211, 'confirmed.': 1}
+2025-11-02 02:47:23,407 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:48:35,346 | INFO | === START: INGEST ===
+2025-11-02 02:48:35,348 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:48:35,365 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:48:35,366 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:48:35,399 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:48:35,400 | INFO | === END: INGEST ===
+2025-11-02 02:48:35,400 | INFO | Transforming doctors dataset...
+2025-11-02 02:48:35,401 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:48:35,402 | INFO | Transforming appointments dataset (final version)...
+2025-11-02 02:48:35,408 | WARNING | ⚠️  Corrected 236 dates with impossible future years (2026-2261) → 2025
+2025-11-02 02:48:35,409 | INFO | ✅ Appointment dates normalized to YYYY-MM-DD: 647/1025 rows (63.1%)
+2025-11-02 02:48:35,411 | INFO | ✅ Standardized status values: {'confirmed': 813, 'cancelled': 211, 'confirmed.': 1}
+2025-11-02 02:48:35,412 | INFO | ✅ Appointments transformation complete
+2025-11-02 02:48:35,417 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:49:46,196 | INFO | === START: INGEST ===
+2025-11-02 02:49:46,197 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:49:46,214 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:49:46,215 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:49:46,254 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:49:46,254 | INFO | === END: INGEST ===
+2025-11-02 02:49:46,254 | INFO | Transforming doctors dataset...
+2025-11-02 02:49:46,256 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:49:46,256 | INFO | Transforming appointments dataset (final version)...
+2025-11-02 02:49:46,266 | WARNING | ⚠️  Corrected 236 dates with impossible future years (2026-2261) → 2025
+2025-11-02 02:49:46,267 | INFO | ✅ Appointment dates normalized to YYYY-MM-DD: 647/1025 rows (63.1%)
+2025-11-02 02:49:46,269 | INFO | ✅ Standardized status values: {'confirmed': 813, 'cancelled': 211, 'confirmed.': 1}
+2025-11-02 02:49:46,270 | INFO | ✅ Appointments transformation complete
+2025-11-02 02:49:46,275 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:51:21,736 | INFO | === START: INGEST ===
+2025-11-02 02:51:21,737 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:51:21,764 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:51:21,765 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:51:21,844 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:51:21,845 | INFO | === END: INGEST ===
+2025-11-02 02:51:21,845 | INFO | Transforming doctors dataset...
+2025-11-02 02:51:21,846 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:51:21,847 | INFO | Transforming appointments dataset (final version)...
+2025-11-02 02:51:21,958 | INFO | ✅ Appointment dates normalized: 931/1025 rows (90.8%)
+2025-11-02 02:51:21,958 | WARNING | ⚠️  Corrected 236 dates with future years (>2025) → 2025
+2025-11-02 02:51:21,958 | WARNING | ⚠️  Failed to parse 94 dates (kept original values)
+2025-11-02 02:51:21,959 | INFO | ✅ Standardized status values: {'confirmed': 813, 'cancelled': 211, 'confirmed.': 1}
+2025-11-02 02:51:21,960 | INFO | ✅ Appointments transformation complete
+2025-11-02 02:51:21,967 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:52:14,451 | INFO | === START: INGEST ===
+2025-11-02 02:52:14,452 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:52:14,466 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:52:14,467 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:52:14,542 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:52:14,542 | INFO | === END: INGEST ===
+2025-11-02 02:52:44,824 | INFO | === START: INGEST ===
+2025-11-02 02:52:44,826 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:52:44,843 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:52:44,844 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:52:44,876 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:52:44,877 | INFO | === END: INGEST ===
+2025-11-02 02:52:44,924 | INFO | ============================================================
+2025-11-02 02:52:44,925 | INFO | Starting ETL Pipeline
+2025-11-02 02:52:44,926 | INFO | ============================================================
+2025-11-02 02:52:44,926 | INFO | 
+[1/4] EXTRACTING DATA...
+2025-11-02 02:52:44,928 | INFO | === START: INGEST ===
+2025-11-02 02:52:44,928 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:52:44,937 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:52:44,937 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:52:44,963 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:52:44,963 | INFO | === END: INGEST ===
+2025-11-02 02:52:44,964 | INFO | ✅ Extracted 5 doctors and 1025 appointments
+2025-11-02 02:52:44,964 | INFO | 
+[2/4] TRANSFORMING DATA...
+2025-11-02 02:52:44,964 | INFO | 
+--- Transforming Doctors ---
+2025-11-02 02:52:44,965 | INFO | Transforming doctors dataset...
+2025-11-02 02:52:44,966 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:52:44,966 | INFO | 
+--- Transforming Appointments ---
+2025-11-02 02:52:44,967 | INFO | Transforming appointments dataset (final version)...
+2025-11-02 02:52:45,083 | INFO | ✅ Appointment dates normalized: 931/1025 rows (90.8%)
+2025-11-02 02:52:45,083 | WARNING | ⚠️  Corrected 236 dates with future years (>2025) → 2025
+2025-11-02 02:52:45,083 | WARNING | ⚠️  Failed to parse 94 dates (kept original values)
+2025-11-02 02:52:45,084 | INFO | ✅ Standardized status values: {'confirmed': 813, 'cancelled': 211, 'confirmed.': 1}
+2025-11-02 02:52:45,085 | INFO | ✅ Appointments transformation complete
+2025-11-02 02:52:45,085 | INFO | 
+[3/4] VERIFYING TRANSFORMATIONS...
+2025-11-02 02:52:45,085 | INFO | Doctors: 5 rows after transformation
+2025-11-02 02:52:45,086 | INFO | First 10 appointment dates after transform: ['2025-10-20', '2025-10-21', '2025-10-20', '2025-10-20', '2025-10-20', '2025-10-20', '2025-10-20', '2025-10-20', '2025-10-20', '2025-10-20']
+2025-11-02 02:52:45,086 | INFO | Dates containing '2025': 931/1025
+2025-11-02 02:52:45,087 | INFO | Dates still containing '/': 94/1025
+2025-11-02 02:52:45,088 | INFO | ✅ All dates are in valid year range (≤2025)
+2025-11-02 02:52:45,088 | INFO | Status values after transform: {'confirmed': 813, 'cancelled': 211, 'confirmed.': 1}
+2025-11-02 02:52:45,088 | INFO | 
+[4/4] SAVING TO CSV...
+2025-11-02 02:52:45,093 | INFO | ✅ Saved doctors to: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/output/final_doctors.csv
+2025-11-02 02:52:45,093 | INFO | ✅ Saved appointments to: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/output/final_appointments.csv
+2025-11-02 02:52:45,093 | INFO | 
+============================================================
+2025-11-02 02:52:45,094 | INFO | TRANSFORMATION COMPLETED SUCCESSFULLY
+2025-11-02 02:52:45,094 | INFO | ============================================================
+2025-11-02 02:53:29,851 | INFO | === START: INGEST ===
+2025-11-02 02:53:29,853 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:53:29,869 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:53:29,869 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:53:29,903 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:53:29,904 | INFO | === END: INGEST ===
+2025-11-02 02:53:29,904 | INFO | Transforming doctors dataset...
+2025-11-02 02:53:29,906 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:53:29,906 | INFO | Transforming appointments dataset (final version)...
+2025-11-02 02:53:30,016 | INFO | ✅ Appointment dates normalized: 931/1025 rows (90.8%)
+2025-11-02 02:53:30,016 | WARNING | ⚠️  Corrected 236 dates with future years (>2025) → 2025
+2025-11-02 02:53:30,016 | WARNING | ⚠️  Failed to parse 94 dates (kept original values)
+2025-11-02 02:53:30,017 | INFO | ✅ Standardized status values: {'confirmed': 813, 'cancelled': 211, 'confirmed.': 1}
+2025-11-02 02:53:30,018 | INFO | ✅ Appointments transformation complete
+2025-11-02 02:53:30,022 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:55:32,121 | INFO | === START: INGEST ===
+2025-11-02 02:55:32,122 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:55:32,139 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:55:32,140 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:55:32,173 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:55:32,174 | INFO | === END: INGEST ===
+2025-11-02 02:55:32,174 | INFO | Transforming doctors dataset...
+2025-11-02 02:55:32,176 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:55:32,176 | INFO | Transforming appointments dataset...
+2025-11-02 02:55:32,296 | INFO | ✅ Appointment dates normalized: 931/1025 rows (90.8%)
+2025-11-02 02:55:32,296 | WARNING | ⚠️  Corrected 236 dates with future years (>2025) → 2025
+2025-11-02 02:55:32,296 | WARNING | ⚠️  Failed to parse 94 dates (kept original values)
+2025-11-02 02:55:32,298 | INFO | ✅ Standardized status values: {'confirmed': 814, 'cancelled': 211}
+2025-11-02 02:55:32,298 | INFO | ✅ Appointments transformation complete
+2025-11-02 02:55:32,303 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 02:58:36,253 | INFO | === START: INGEST ===
+2025-11-02 02:58:36,255 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 02:58:36,272 | INFO | Doctors file loaded: 5 rows
+2025-11-02 02:58:36,273 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 02:58:36,306 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 02:58:36,307 | INFO | === END: INGEST ===
+2025-11-02 02:58:36,307 | INFO | Transforming doctors dataset...
+2025-11-02 02:58:36,309 | INFO | Doctors cleaned: 5 rows
+2025-11-02 02:58:36,309 | INFO | Transforming appointments dataset...
+2025-11-02 02:58:36,311 | INFO | Processing dates...
+2025-11-02 02:58:36,314 | INFO | ✅ Dates with slashes remaining: 0
+2025-11-02 02:58:36,314 | INFO | ✅ Future dates remaining: 0
+2025-11-02 02:58:36,327 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 03:07:45,498 | INFO | === START: INGEST ===
+2025-11-02 03:07:45,500 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 03:07:45,523 | INFO | Doctors file loaded: 5 rows
+2025-11-02 03:07:45,524 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 03:07:45,554 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 03:07:45,555 | INFO | === END: INGEST ===
+2025-11-02 03:07:45,555 | INFO | Transforming doctors dataset...
+2025-11-02 03:07:45,558 | INFO | Doctors cleaned: 5 rows
+2025-11-02 03:07:45,558 | INFO | Transforming appointments dataset...
+2025-11-02 03:07:45,560 | INFO | ✅ Dates normalized to YYYY-MM-DD format
+2025-11-02 03:07:45,561 | INFO | ✅ Status values standardized
+2025-11-02 03:07:45,568 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 03:10:03,904 | INFO | === START: INGEST ===
+2025-11-02 03:10:03,905 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 03:10:03,924 | INFO | Doctors file loaded: 5 rows
+2025-11-02 03:10:03,925 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 03:10:03,958 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 03:10:03,959 | INFO | === END: INGEST ===
+2025-11-02 03:10:03,959 | INFO | Transforming doctors dataset...
+2025-11-02 03:10:03,960 | INFO | Doctors cleaned: 5 rows
+2025-11-02 03:10:03,961 | INFO | Transforming appointments dataset...
+2025-11-02 03:10:03,966 | INFO | ✅ Dates normalized to YYYY-MM-DD format
+2025-11-02 03:10:03,968 | INFO | ✅ Status values standardized
+2025-11-02 03:10:03,976 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 03:13:46,677 | INFO | === START: INGEST ===
+2025-11-02 03:13:46,678 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 03:13:46,696 | INFO | Doctors file loaded: 5 rows
+2025-11-02 03:13:46,697 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 03:13:46,729 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 03:13:46,730 | INFO | === END: INGEST ===
+2025-11-02 03:13:46,730 | INFO | Transforming doctors dataset...
+2025-11-02 03:13:46,732 | INFO | Doctors cleaned: 5 rows
+2025-11-02 03:13:46,732 | INFO | Transforming appointments dataset...
+2025-11-02 03:13:46,735 | INFO | ✅ Dates normalized to YYYY-MM-DD format
+2025-11-02 03:13:46,737 | INFO | ✅ Status values standardized
+2025-11-02 03:13:46,743 | INFO | ✅ Transformation completed and CSVs saved to ./output/
+2025-11-02 03:19:03,172 | INFO | === START: INGEST ===
+2025-11-02 03:19:03,173 | INFO | Reading doctors file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 03:19:03,188 | INFO | Doctors file loaded: 5 rows
+2025-11-02 03:19:03,189 | INFO | Reading appointments file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 03:19:03,220 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 03:19:03,221 | INFO | === END: INGEST ===
+2025-11-02 03:19:03,221 | INFO | Transforming doctors dataset...
+2025-11-02 03:19:03,223 | INFO | Doctors cleaned: 5 rows
+2025-11-02 03:19:03,223 | INFO | Transforming appointments dataset...
+2025-11-02 03:19:03,226 | INFO | ✅ Dates normalized to YYYY-MM-DD format
+2025-11-02 03:19:03,227 | INFO | ✅ Status values standardized
+2025-11-02 03:19:03,228 | INFO | ✅ Transformations complete. Holding DataFrames in memory.
+2025-11-02 11:21:40,856 | INFO | === START: INGEST ===
+2025-11-02 11:21:40,857 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 11:21:40,960 | INFO | Doctors file loaded: 5 rows
+2025-11-02 11:21:40,961 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 11:21:40,985 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 11:21:40,986 | INFO | === END: INGEST ===
+2025-11-02 11:21:41,020 | INFO | === START: INGEST ===
+2025-11-02 11:21:41,021 | INFO | Reading doctors file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 11:21:41,029 | INFO | Doctors file loaded: 5 rows
+2025-11-02 11:21:41,030 | INFO | Reading appointments file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 11:21:41,054 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 11:21:41,055 | INFO | === END: INGEST ===
+2025-11-02 11:21:41,055 | INFO | Transforming doctors dataset...
+2025-11-02 11:21:41,057 | INFO | Doctors cleaned: 5 rows
+2025-11-02 11:21:41,058 | INFO | Transforming appointments dataset...
+2025-11-02 11:21:41,060 | INFO | Dates normalized to YYYY-MM-DD format
+2025-11-02 11:21:41,061 | INFO | Status values standardized
+2025-11-02 11:21:41,062 | INFO | ✅ Transformations complete. Holding DataFrames in memory.
+2025-11-02 11:25:07,308 | INFO | === START: INGEST ===
+2025-11-02 11:25:07,310 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 11:25:07,329 | INFO | Doctors file loaded: 5 rows
+2025-11-02 11:25:07,331 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 11:25:07,364 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 11:25:07,364 | INFO | === END: INGEST ===
+2025-11-02 11:25:07,400 | INFO | === START: INGEST ===
+2025-11-02 11:25:07,401 | INFO | Reading doctors file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 11:25:07,414 | INFO | Doctors file loaded: 5 rows
+2025-11-02 11:25:07,427 | INFO | Reading appointments file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 11:25:07,496 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 11:25:07,496 | INFO | === END: INGEST ===
+2025-11-02 11:25:07,496 | INFO | Transforming doctors dataset...
+2025-11-02 11:25:07,498 | INFO | Doctors cleaned: 5 rows
+2025-11-02 11:25:07,499 | INFO | Transforming appointments dataset...
+2025-11-02 11:25:07,503 | INFO | Dates normalized to YYYY-MM-DD format
+2025-11-02 11:25:07,504 | INFO | Status values standardized
+2025-11-02 11:25:07,505 | INFO | ✅ Transformations complete. Holding DataFrames in memory.
+2025-11-02 11:31:33,366 | INFO | === START: INGEST ===
+2025-11-02 11:31:33,368 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 11:31:33,396 | INFO | Doctors file loaded: 5 rows
+2025-11-02 11:31:33,397 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 11:31:33,499 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 11:31:33,500 | INFO | === END: INGEST ===
+2025-11-02 11:31:33,545 | INFO | === START: INGEST ===
+2025-11-02 11:31:33,547 | INFO | Reading doctors file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 11:31:33,571 | INFO | Doctors file loaded: 5 rows
+2025-11-02 11:31:33,571 | INFO | Reading appointments file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 11:31:33,675 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 11:31:33,675 | INFO | === END: INGEST ===
+2025-11-02 11:31:33,676 | INFO | Transforming doctors dataset...
+2025-11-02 11:31:33,677 | INFO | Doctors cleaned: 5 rows
+2025-11-02 11:31:33,677 | INFO | Transforming appointments dataset...
+2025-11-02 11:31:33,679 | INFO | Dates normalized to YYYY-MM-DD format
+2025-11-02 11:31:33,680 | INFO | Status values standardized
+2025-11-02 11:31:33,681 | INFO | ✅ Transformations complete. Holding DataFrames in memory.
+2025-11-02 11:34:10,572 | INFO | === START: INGEST ===
+2025-11-02 11:34:10,574 | INFO | Reading doctors file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 11:34:10,590 | INFO | Doctors file loaded: 5 rows
+2025-11-02 11:34:10,591 | INFO | Reading appointments file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 11:34:10,625 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 11:34:10,625 | INFO | === END: INGEST ===
+2025-11-02 11:34:10,626 | INFO | Transforming doctors dataset...
+2025-11-02 11:34:10,628 | INFO | Doctors cleaned: 5 rows
+2025-11-02 11:34:10,628 | INFO | Transforming appointments dataset...
+2025-11-02 11:34:10,631 | INFO | Dates normalized to YYYY-MM-DD format
+2025-11-02 11:34:10,632 | INFO | Status values standardized
+2025-11-02 11:34:10,633 | INFO | ✅ Transformations complete. Holding DataFrames in memory.
+2025-11-02 11:53:55,286 | INFO | === START: INGEST ===
+2025-11-02 11:53:55,288 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 11:53:55,308 | INFO | Doctors file loaded: 5 rows
+2025-11-02 11:53:55,308 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 11:53:55,337 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 11:53:55,338 | INFO | === END: INGEST ===
+2025-11-02 11:53:55,370 | INFO | === START: INGEST ===
+2025-11-02 11:53:55,371 | INFO | Reading doctors file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 11:53:55,380 | INFO | Doctors file loaded: 5 rows
+2025-11-02 11:53:55,380 | INFO | Reading appointments file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 11:53:55,405 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 11:53:55,405 | INFO | === END: INGEST ===
+2025-11-02 11:53:55,406 | INFO | Transforming doctors dataset...
+2025-11-02 11:53:55,409 | INFO | Doctors cleaned: 5 rows
+2025-11-02 11:53:55,409 | INFO | Transforming appointments dataset...
+2025-11-02 11:53:55,411 | INFO | Dates normalized to YYYY-MM-DD format
+2025-11-02 11:53:55,413 | INFO | Status values standardized
+2025-11-02 11:53:55,413 | INFO | ✅ Transformations complete. Holding DataFrames in memory.
+2025-11-02 11:58:54,414 | INFO | Transforming appointments dataset...
+2025-11-02 11:58:54,421 | INFO | Dates normalized to YYYY-MM-DD format
+2025-11-02 11:58:54,424 | INFO | Status values standardized
+2025-11-02 12:00:36,000 | INFO | Transforming appointments dataset...
+2025-11-02 12:00:36,006 | INFO | Dates normalized to YYYY-MM-DD format
+2025-11-02 12:00:36,008 | INFO | Status values standardized
+2025-11-02 12:03:43,101 | INFO | Transforming appointments dataset...
+2025-11-02 12:03:43,113 | INFO | Dates normalized to YYYY-MM-DD format
+2025-11-02 12:03:43,116 | INFO | Status values standardized
+2025-11-02 12:04:04,116 | INFO | === START: INGEST ===
+2025-11-02 12:04:04,117 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 12:04:04,134 | INFO | Doctors file loaded: 5 rows
+2025-11-02 12:04:04,135 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 12:04:04,166 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 12:04:04,167 | INFO | === END: INGEST ===
+2025-11-02 12:04:04,203 | INFO | === START: INGEST ===
+2025-11-02 12:04:04,204 | INFO | Reading doctors file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 12:04:04,212 | INFO | Doctors file loaded: 5 rows
+2025-11-02 12:04:04,213 | INFO | Reading appointments file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 12:04:04,235 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 12:04:04,236 | INFO | === END: INGEST ===
+2025-11-02 12:04:04,236 | INFO | Transforming doctors dataset...
+2025-11-02 12:04:04,238 | INFO | Doctors cleaned: 5 rows
+2025-11-02 12:04:04,238 | INFO | Transforming appointments dataset...
+2025-11-02 12:04:04,241 | INFO | Dates normalized to YYYY-MM-DD format
+2025-11-02 12:04:04,242 | INFO | Status values standardized
+2025-11-02 12:04:04,243 | INFO | ✅ Transformations complete. Holding DataFrames in memory.
+2025-11-02 14:12:16,837 | INFO | === START: INGEST ===
+2025-11-02 14:12:16,839 | INFO | Reading doctors file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 14:12:16,866 | INFO | Doctors file loaded: 5 rows
+2025-11-02 14:12:16,866 | INFO | Reading appointments file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 14:12:16,895 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 14:12:16,896 | INFO | === END: INGEST ===
+2025-11-02 14:12:16,897 | INFO | Transforming doctors dataset...
+2025-11-02 14:12:16,901 | INFO | Doctors cleaned: 5 rows
+2025-11-02 14:12:16,901 | INFO | Transforming appointments dataset...
+2025-11-02 14:12:16,905 | INFO | Dates normalized to YYYY-MM-DD format
+2025-11-02 14:12:16,907 | INFO | Status values standardized
+2025-11-02 14:12:16,908 | INFO | Transformations complete. Holding DataFrames in memory.
+2025-11-02 14:12:16,918 | INFO | 💾 Saved transformed datasets to: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/output
+2025-11-02 14:12:33,813 | INFO | === START: INGEST ===
+2025-11-02 14:12:33,859 | INFO | Reading doctors file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 14:12:33,896 | INFO | Doctors file loaded: 5 rows
+2025-11-02 14:12:33,896 | INFO | Reading appointments file from: /Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 14:12:33,926 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 14:12:33,927 | INFO | === END: INGEST ===
+2025-11-02 14:12:33,964 | INFO | === START: INGEST ===
+2025-11-02 14:12:33,965 | INFO | Reading doctors file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 14:12:33,974 | INFO | Doctors file loaded: 5 rows
+2025-11-02 14:12:33,974 | INFO | Reading appointments file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 14:12:33,996 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 14:12:33,997 | INFO | === END: INGEST ===
+2025-11-02 14:12:33,997 | INFO | Transforming doctors dataset...
+2025-11-02 14:12:33,999 | INFO | Doctors cleaned: 5 rows
+2025-11-02 14:12:33,999 | INFO | Transforming appointments dataset...
+2025-11-02 14:12:34,002 | INFO | Dates normalized to YYYY-MM-DD format
+2025-11-02 14:12:34,003 | INFO | Status values standardized
+2025-11-02 14:12:34,004 | INFO | ✅ Transformations complete. Holding DataFrames in memory.
+2025-11-02 14:12:34,014 | INFO | === START: INGEST ===
+2025-11-02 14:12:34,015 | INFO | Reading doctors file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx
+2025-11-02 14:12:34,027 | INFO | Doctors file loaded: 5 rows
+2025-11-02 14:12:34,028 | INFO | Reading appointments file from: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+2025-11-02 14:12:34,057 | INFO | Appointments file loaded: 1025 rows
+2025-11-02 14:12:34,058 | INFO | === END: INGEST ===
+2025-11-02 14:12:34,058 | INFO | Transforming doctors dataset...
+2025-11-02 14:12:34,059 | INFO | Doctors cleaned: 5 rows
+2025-11-02 14:12:34,060 | INFO | Transforming appointments dataset...
+2025-11-02 14:12:34,062 | INFO | Dates normalized to YYYY-MM-DD format
+2025-11-02 14:12:34,063 | INFO | Status values standardized
+2025-11-02 14:12:34,064 | INFO | Transformations complete. Holding DataFrames in memory.
+2025-11-02 14:12:34,070 | INFO | 💾 Saved transformed datasets to: /Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline/output
