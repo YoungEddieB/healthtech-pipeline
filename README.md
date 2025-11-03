@@ -10,7 +10,7 @@ Pipeline/
 │   ├── Data Enginner's Doctors Excel - VIP Medical Group.xlsx
 │   └── Data Engineer's Appointments Excel - VIP Medical Group.xlsx
 │
-├── output/                   # Folder for transformed CSVs (optional)
+├── output/                   # Folder for transformed CSVs
 └── logs/                     # Folder for logs
 ```
 
