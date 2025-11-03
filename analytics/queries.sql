@@ -28,7 +28,7 @@ order by number_of_confirmed_appoiments desc
 
 select 
 appointment_date,
-count(ap.appointment_id) as number_of_cancelled_appoiments
+count(ap.appointment_id) as number_of_cancelled_appointments
 from healthtech.appointments ap
 left join healthtech.doctors dc
 on ap.doctor_id = dc.doctor_id
@@ -40,10 +40,10 @@ order by appointment_date asc
 
 select 
 dc.doctor_name, 
-count(ap.appointment_id) as  number_of_confirmed_appoiments
+count(ap.appointment_id) as  number_of_confirmed_appointments
 from healthtech.appointments ap
 left join healthtech.doctors dc
 on ap.doctor_id = dc.doctor_id
 where ap.status = 'confirmed'
 group by 1
-order by number_of_confirmed_appoiments desc
+order by number_of_confirmed_appointments desc
