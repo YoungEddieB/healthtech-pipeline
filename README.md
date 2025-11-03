@@ -12,6 +12,7 @@ Pipeline/
 │
 ├── output/                   # Folder for transformed CSVs before uploading into postgresql
 └── logs/                     # Folder for logs
+└── analytics/                # Folder that stores a single SQL file containing all the queries used to answer the questions.
 ```
 
 ---
