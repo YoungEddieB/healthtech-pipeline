@@ -53,6 +53,9 @@ CREATE DATABASE healthtech_db;
 ```
 
 ```python
+
+##Update the credentials.json file based on the details below, and make sure to include the new password or updated credentials
+
 connection = psycopg2.connect(
     host='localhost',
     user='postgres',
