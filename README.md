@@ -32,8 +32,8 @@ cd HealthTech-ETL/Pipeline
 
 ```bash
 python3 -m venv venv
-source venv/bin/activate     # Mac/Linux
-venv\Scripts\activate        # Windows
+source venv/bin/activate 
+venv\Scripts\activate   
 ```
 
 ---
