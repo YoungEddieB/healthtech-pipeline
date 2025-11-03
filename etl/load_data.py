@@ -17,7 +17,7 @@ try:
     with open(credentials_path, "r") as f:
          config = json.load(f)
 
-    # Unpack config values directly
+
     connection = psycopg2.connect(
         host=config["host"],
         user=config["user"],
@@ -36,23 +36,18 @@ except Exception as ex:
 
 sys.path.append("/Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline")
 
-# Define paths
 project_root = "/Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline"
 doctors_path = f"{project_root}/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx"
 appointments_path = f"{project_root}/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx"
 
-# 1) Extract
+
 doctors_df, appointments_df = extract_data(doctors_path, appointments_path)
 
-# 2) Transform (kept only in memory)
+
 doctors_clean = transform_doctors(doctors_df)
 appointments_clean = transform_appointments(appointments_df)
 
-# 3) Preview results
-doctors_clean.head()
-appointments_clean.head()
 
-# --- Fix foreign key issue ---
 appointments_clean = appointments_clean[
     appointments_clean["doctor_id"].isin(doctors_clean["doctor_id"])
 ]
@@ -107,17 +102,14 @@ upsert_appointments = """
         ingested_at = EXCLUDED.ingested_at
 """
 
-# === 4️⃣ Prepare Data for Insert ===
 doctor_records = doctors_clean[["doctor_id", "doctor_name", "specialty", "ingested_at"]].values.tolist()
 appointment_records = appointments_clean[["appointment_id", "doctor_id", "patient_id", "appointment_date", "status", "ingested_at"]].values.tolist()
 
-# === 5️⃣ Execute UPSERTs ===
 print(f"Upserting {len(doctor_records)} doctors...")
 execute_batch(cursor, upsert_doctors, doctor_records, page_size=100)
 
 print(f"Upserting {len(appointment_records)} appointments...")
 execute_batch(cursor, upsert_appointments, appointment_records, page_size=100)
 
-# === 6️⃣ Commit and Close ===
 connection.commit()
-print("Data successfully upserted into PostgreSQL!")
+print("Data successfully upserted")

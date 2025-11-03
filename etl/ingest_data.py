@@ -10,15 +10,15 @@ def creating_logger():
         format="%(asctime)s | %(levelname)s | %(message)s",
         handlers=[
             logging.StreamHandler(), 
-            logging.FileHandler("logs/ingest.log", mode="a", encoding="utf-8")  # save to file
+            logging.FileHandler("logs/ingest.log", mode="a", encoding="utf-8")
         ],
     )
     logger = logging.getLogger("ingest")
     return logger
 
 
-base_dir = os.path.dirname(os.path.abspath(__file__))  # directory where this script lives
-datasets_dir = os.path.join(os.path.dirname(base_dir), "datasets") # points to /etl/datasets/
+base_dir = os.path.dirname(os.path.abspath(__file__))
+datasets_dir = os.path.join(os.path.dirname(base_dir), "datasets")
 
 doctors_path = os.path.join(
     datasets_dir,

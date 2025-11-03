@@ -6,13 +6,11 @@ import logging
 import numpy as np
 import re
 
-# Remove old imports to avoid cache issues
 if 'ingest_data' in sys.modules:
     del sys.modules['ingest_data']
 
-# --- Dynamically find your project root ---
-base_dir = os.path.dirname(os.path.abspath(__file__))      # directory where this script lives (/etl)
-project_root = os.path.dirname(base_dir)                   # one level up (/healthtech-pipeline)
+base_dir = os.path.dirname(os.path.abspath(__file__))     
+project_root = os.path.dirname(base_dir)          
 sys.path.append(base_dir)
 
 import ingest_data
@@ -150,10 +148,8 @@ if __name__ == "__main__":
 
     from ingest_data import extract_data
 
-    # 1) Extract
     doctors_df, appointments_df = extract_data(doctors_path, appointments_path)
 
-    # 2) Transform (in-memory)
     doctors_clean = transform_doctors(doctors_df)
     appointments_clean = transform_appointments(appointments_df)
 
@@ -165,7 +161,6 @@ if __name__ == "__main__":
     print("\n=== Appointments (shape: {} rows x {} cols) ===".format(*appointments_clean.shape))
     print(appointments_clean.head())
 
-    # 4) Output
     os.makedirs(output_dir, exist_ok=True)
     doctors_output_path = os.path.join(output_dir, "doctors_clean.csv")
     appointments_output_path = os.path.join(output_dir, "appointments_clean.csv")
