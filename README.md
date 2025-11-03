@@ -75,7 +75,7 @@ python load_data.py
 
 ## ETL Breakdown
 
-### 1️⃣ Extract (`ingest_data.py`)
+### Extract (`ingest_data.py`)
 
 **Purpose:**  
 Reads the raw Excel files containing doctors and appointments information.
@@ -89,7 +89,7 @@ Reads the raw Excel files containing doctors and appointments information.
 
 ---
 
-### 2️⃣ Transform (`transformation_data.py`)
+### Transform (`transformation_data.py`)
 
 **Purpose:**  
 Cleans, standardizes, and prepares the data for loading.
@@ -123,7 +123,7 @@ Cleans, standardizes, and prepares the data for loading.
 
 ---
 
-### 3️⃣ Load (`load_data.py`)
+### Load (`load_data.py`)
 
 **Purpose:**  
 Loads the cleaned data into PostgreSQL under the `healthtech` schema.
@@ -150,5 +150,4 @@ Loads the cleaned data into PostgreSQL under the `healthtech` schema.
 | **Orchestration** | AWS Step Functions | Coordinate ETL steps |
 | **Transform** | AWS Glue | Data cleaning and transformation |
 | **Load** | Amazon RDS (PostgreSQL) | Store processed data |
-| **Monitoring** | Amazon CloudWatch | Track logs and pipeline health |
 
