@@ -122,7 +122,7 @@ Cleans, standardizes, and prepares the data for loading.
 - Produces two cleaned DataFrames:
   - `doctors_clean`
   - `appointments_clean`  
-- Optionally saves them as CSVs under `/output/` for manual inspection.  
+- Finally saves them as CSVs under `/output/` before being upload into the database.  
 
 ---
 
