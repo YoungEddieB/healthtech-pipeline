@@ -153,5 +153,5 @@ Loads the cleaned data into PostgreSQL under the `healthtech` schema.
 | **Extract** | Amazon S3 | Store raw Excel files |  Highly durable and reliable, also very scalable |
 | **Orchestration** | AWS Step Functions | Coordinate ETL steps | Serverless orchestration and visual workflows |
 | **Transform** | AWS Glue | Data cleaning and transformation | Supports Python and native connection to S3 and RDS |
-| **Load** | Amazon RDS (PostgreSQL) | Store processed data | High performance and security and compatible with existing PostgreSQL tools|
+| **Load** | Amazon RDS (PostgreSQL) | Store processed data | High performance and security, compatible with existing PostgreSQL tools|
 
