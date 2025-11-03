@@ -7,8 +7,8 @@ Pipeline/
 ├── transformation_data.py    # Cleans and transforms the datasets
 ├── load_data.py              # Loads cleaned data into PostgreSQL
 ├── datasets/                 # Folder containing Excel input files
-│   ├── Data Enginner's Doctors Excel - VIP Medical Group.xlsx
-│   └── Data Engineer's Appointments Excel - VIP Medical Group.xlsx
+│   ├── Data Enginner Doctors Excel - VIP Medical Group.xlsx
+│   └── Data Engineer Appointments Excel - VIP Medical Group.xlsx
 │
 ├── output/                   # Folder for transformed CSVs
 └── logs/                     # Folder for logs
