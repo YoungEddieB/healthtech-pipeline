@@ -142,7 +142,7 @@ Loads the cleaned data into PostgreSQL under the `healthtech` schema.
 
 ---
 
-## ☁️ Recommended AWS Architecture
+## Recommended AWS Architecture
 
 | Component | AWS Service | Purpose |
 |------------|--------------|----------|
