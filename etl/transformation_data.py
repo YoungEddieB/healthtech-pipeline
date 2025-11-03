@@ -10,8 +10,10 @@ import re
 if 'ingest_data' in sys.modules:
     del sys.modules['ingest_data']
 
-# Add the correct folder to sys.path
-sys.path.append("/Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline")
+# --- Dynamically find your project root ---
+base_dir = os.path.dirname(os.path.abspath(__file__))      # directory where this script lives (/etl)
+project_root = os.path.dirname(base_dir)                   # one level up (/healthtech-pipeline)
+sys.path.append(base_dir)
 
 import ingest_data
 importlib.reload(ingest_data)
@@ -19,7 +21,10 @@ importlib.reload(ingest_data)
 print(ingest_data.__file__)
 print(dir(ingest_data))
 
-doctors_df, appointments_df = ingest_data.extract_data(ingest_data.doctors_path,ingest_data.appointments_path)
+doctors_df, appointments_df = ingest_data.extract_data(
+    ingest_data.doctors_path,
+    ingest_data.appointments_path
+)
 doctors_df.head()
 appointments_df.head()
 
@@ -43,7 +48,7 @@ def transform_doctors(doctors_df: pd.DataFrame) -> pd.DataFrame:
     df = doctors_df.copy()
     df = normalize_columns(df)
 
-        # --- Rename columns ---
+    # --- Rename columns ---
     rename_map = {
         "doctor_id": "doctor_id",
         "name": "doctor_name",
@@ -66,9 +71,7 @@ def transform_doctors(doctors_df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 def transform_appointments(appointments_df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Clean and standardize appointments data.
-    """
+    """Clean and standardize appointments data."""
     logger.info("Transforming appointments dataset...")
     df = appointments_df.copy()
     df = normalize_columns(df)
@@ -97,30 +100,26 @@ def transform_appointments(appointments_df: pd.DataFrame) -> pd.DataFrame:
         if col in df.columns:
             df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0).astype(int)
 
-    # --- Fix dates: normalize formats and correct invalid years ---
+    # --- Fix dates ---
     if "appointment_date" in df.columns:
         import re
 
         def fix_date(date_str):
             date_str = str(date_str).strip()
-            # Match possible formats
             match = (
-                re.match(r'(\d{1,2})/(\d{1,2})/(\d{4})', date_str) or   # MM/DD/YYYY
-                re.match(r'(\d{4})-(\d{1,2})-(\d{1,2})', date_str) or   # YYYY-MM-DD
-                re.match(r'(\d{4})/(\d{1,2})/(\d{1,2})', date_str)      # YYYY/MM/DD
+                re.match(r'(\d{1,2})/(\d{1,2})/(\d{4})', date_str) or
+                re.match(r'(\d{4})-(\d{1,2})-(\d{1,2})', date_str) or
+                re.match(r'(\d{4})/(\d{1,2})/(\d{1,2})', date_str)
             )
-
             if match:
                 groups = match.groups()
-                if '/' in date_str and date_str.index('/') < 3:  # MM/DD/YYYY
+                if '/' in date_str and date_str.index('/') < 3:
                     month, day, year = groups
-                else:  # YYYY-MM-DD or YYYY/MM/DD
+                else:
                     year, month, day = groups
-
                 year = '2025' if int(year) > 2025 else year
                 return f"{year}-{month.zfill(2)}-{day.zfill(2)}"
-
-            return date_str  # leave untouched if no pattern matches
+            return date_str
 
         df["appointment_date"] = df["appointment_date"].apply(fix_date)
         logger.info("Dates normalized to YYYY-MM-DD format")
@@ -137,31 +136,27 @@ def transform_appointments(appointments_df: pd.DataFrame) -> pd.DataFrame:
         )
         logger.info("Status values standardized")
 
-    # --- Add ingestion timestamp ---
     df["ingested_at"] = pd.Timestamp.utcnow()
-
     return df
 
+
 if __name__ == "__main__":
-    # assume: sys, logger, extract_data, transform_doctors, transform_appointments already available
+    # --- Dynamically detect paths instead of hardcoding them ---
+    datasets_dir = os.path.join(project_root, "datasets")
+    output_dir = os.path.join(project_root, "output")
 
-    # Keep your existing path append & import
-    sys.path.append("/Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline")
+    doctors_path = os.path.join(datasets_dir, "Data Enginner Doctors Excel - VIP Medical Group.xlsx")
+    appointments_path = os.path.join(datasets_dir, "Data Engineer Appointments Excel - VIP Medical Group.xlsx")
+
     from ingest_data import extract_data
-
-    # Paths
-    project_root = "/Users/youngeddieb/PyCharmProjects/BI-Analytics/BI-Analytics/Pipeline"
-    doctors_path = f"{project_root}/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx"
-    appointments_path = f"{project_root}/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx"
 
     # 1) Extract
     doctors_df, appointments_df = extract_data(doctors_path, appointments_path)
 
-    # 2) Transform (kept only in memory)
+    # 2) Transform (in-memory)
     doctors_clean = transform_doctors(doctors_df)
     appointments_clean = transform_appointments(appointments_df)
 
-    # 3) Print previews (no CSV writes)
     logger.info("Transformations complete. Holding DataFrames in memory.")
 
     print("\n=== Doctors (shape: {} rows x {} cols) ===".format(*doctors_clean.shape))
@@ -170,15 +165,15 @@ if __name__ == "__main__":
     print("\n=== Appointments (shape: {} rows x {} cols) ===".format(*appointments_clean.shape))
     print(appointments_clean.head())
 
-    # 4) Optional: Save output DataFrames as CSVs
-    output_dir = f"{project_root}/output"
+    # 4) Output
     os.makedirs(output_dir, exist_ok=True)
-
-    doctors_output_path = f"{output_dir}/doctors_clean.csv"
-    appointments_output_path = f"{output_dir}/appointments_clean.csv"
+    doctors_output_path = os.path.join(output_dir, "doctors_clean.csv")
+    appointments_output_path = os.path.join(output_dir, "appointments_clean.csv")
 
     doctors_clean.to_csv(doctors_output_path, index=False)
     appointments_clean.to_csv(appointments_output_path, index=False)
 
     logger.info(f"Saved transformed datasets to: {output_dir}")
     print(f"\nSaved files:\n- {doctors_output_path}\n- {appointments_output_path}")
+
+

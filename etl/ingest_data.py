@@ -17,9 +17,18 @@ def creating_logger():
     return logger
 
 
-doctors_path = "/Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Enginner's Doctors Excel - VIP Medical Group.xlsx"
-appointments_path = "/Users/youngeddieb/PycharmProjects/BI-Analytics/BI-Analytics/Pipeline/datasets/Data Engineer's Appointments Excel - VIP Medical Group.xlsx"
+base_dir = os.path.dirname(os.path.abspath(__file__))  # directory where this script lives
+datasets_dir = os.path.join(os.path.dirname(base_dir), "datasets") # points to /etl/datasets/
 
+doctors_path = os.path.join(
+    datasets_dir,
+    "Data Enginner Doctors Excel - VIP Medical Group.xlsx"
+)
+
+appointments_path = os.path.join(
+    datasets_dir,
+    "Data Engineer Appointments Excel - VIP Medical Group.xlsx"
+)
 
 def extract_data(doctors_path: str, appointments_path: str):
     """

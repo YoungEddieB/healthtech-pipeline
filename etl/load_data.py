@@ -5,22 +5,32 @@ import sys
 import importlib
 import logging
 import transformation_data
+import json
+import os
 importlib.reload(transformation_data)
 from transformation_data import transform_doctors, transform_appointments
 from ingest_data import extract_data
 
 try: 
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    credentials_path = os.path.join(base_dir, "credentials.json")
+    with open(credentials_path, "r") as f:
+         config = json.load(f)
+
+    # Unpack config values directly
     connection = psycopg2.connect(
-        host='localhost',
-        user='postgres',
-        password='123',
-        database='healthtech_db',
+        host=config["host"],
+        user=config["user"],
+        password=config["password"],
+        database=config["database"]
     )
+
     print("connection successfully")
     cursor = connection.cursor()
     cursor.execute("SELECT version()")
     row = cursor.fetchone()
     print(row)
+
 except Exception as ex:
     print(ex)
 
